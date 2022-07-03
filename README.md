@@ -1,0 +1,2 @@
+# Idade_Media_Coletiva
+O referido programa lê um número indeterminado de dados, contendo cada um, a idade de um indivíduo. O programa se encerra quando um número negativo é digitado, informando a idade média do grupo de indivíduos registrados até ali. Caso o usuário por ventura digite um número negativo antes mesmo de qualquer idade, o programa retorna com a mensagem " Impossível Calcular ". O programa é disponibilizado nas linguagens C, C++, Java, C# e Python.
